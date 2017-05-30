@@ -1,7 +1,7 @@
 ﻿{
   "RunSettings": {
     "FrontAdminUrl": "www.google.com",
-    "FrontWebUrl": "http://www.google.com",
+    "FrontWebUrl": "http://www.google.se",
     "TestType": "SmokeTest",
     "IsLog": "true",
     "BrowserType": "Chrome",
