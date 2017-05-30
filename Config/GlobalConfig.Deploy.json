@@ -1,0 +1,16 @@
+﻿{
+  "RunSettings": {
+    "FrontAdminUrl": "__TOKEN__",
+    "FrontWebUrl": "__TOKEN__",
+    "TestType": "UITest",
+    "IsLog": "true",
+    "BrowserType": "PhantomJS",
+    "ChromeDriverPath": "Framework\\WebDrivers\\",
+    "PhantomDriverPath": "Framework\\WebDrivers\\",
+    "ScreenshotsPath": "Screenshots\\",
+    "ExcelDataPath": "\\UITest\\Smoke\\Data\\datainput.xlsx",
+    "Company": "xx",
+    "MicrosoftEmail": "xxx",
+    "MicrosoftPassword": "xxxx"
+  }
+}

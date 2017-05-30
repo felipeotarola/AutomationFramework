@@ -1,0 +1,17 @@
+﻿{
+  "RunSettings": {
+    "FrontAdminUrl": "www.google.com",
+    "FrontWebUrl": "http://www.google.com",
+    "TestType": "SmokeTest",
+    "IsLog": "true",
+    "BrowserType": "Chrome",
+    "ChromeDriverPath": "Framework\\WebDrivers\\",
+    "PhantomDriverPath": "Framework\\WebDrivers\\",
+    "ScreenshotsPath": "Screenshots\\",
+    "ExcelDataPath": "\\UITest\\Data\\datainput.xlsx",
+    "Company": "xxx",
+    "MicrosoftEmail": "xxx",
+    "MicrosoftPassword": "xxx"
+  }
+}
+ 

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AutomationFramework.UITests": {
+      "commandName": "Project"
+    }
+  }
+}
