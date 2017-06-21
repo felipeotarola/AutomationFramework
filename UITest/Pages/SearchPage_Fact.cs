@@ -18,7 +18,7 @@ namespace AutomationFramework.UITests.UITest.Pages
         [Fact]
         public void Search_In_Google() 
         {   //Arrange
-            var value = "Hello Juulia";
+            var value = "Hello World";
             var homePageUrl = Settings.RunSettings.FrontWebUrl;
 
             //Act
